@@ -1,2 +1,2 @@
 # gh-actions-fun-submodule
-test comment 4
+test comment 5
